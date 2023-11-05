@@ -15,5 +15,5 @@
 - Visualization: Tableau, Looker Studio, Power BI
 
 ## 👋🏻 Get in Touch
-- Linkedin = [Diantya Pitaloka](https://www.linkedin.com/in/diantyapitaloka/)
-- GitHub = [Diantya Pitaloka](https://github.com/diantyapitaloka)
+- Linkedin   = [Diantya Pitaloka](https://www.linkedin.com/in/diantyapitaloka/)
+- GitHub     = [Diantya Pitaloka](https://github.com/diantyapitaloka)
