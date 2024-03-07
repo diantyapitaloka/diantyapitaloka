@@ -1,4 +1,4 @@
-## 🙋🏻‍♀️ Hello Folks
+## 🙋🏻‍♀️ Hello I'm Diantya Pitaloka
 - Hello, I'm Diantya. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 - Diantya is a graduated student from the Faculty of Engineering, majoring in Industrial Engineering.
 - Had 2+ years’ experience through 4 internship experiences in various industries, including Government, Fast Moving Consumer Good, and Start-up.
