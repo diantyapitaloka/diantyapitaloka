@@ -2,7 +2,7 @@
 - Hello, I'm Diantya Pitaloka. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 - Diantya is a graduated student from the Faculty of Engineering, majoring in Industrial Engineering.
 - Had 2+ years’ experience through 4 internship experiences in various industries, including Government, Fast Moving Consumer Good, and Start-up.
-- Have a strong academic background in analytical skills, operation, data analysis, and optimization.
+- Have a strong academic background in analytical skills, operation, data analysis, data visualization, and optimization.
 - Experienced in leading four complex projects such as analyst planning, building technology features, manufacturing systems simulation modeling techniques, and analyze performance statistics data.
 
 ## 🌱 Interested In
