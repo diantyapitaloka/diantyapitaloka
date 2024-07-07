@@ -10,6 +10,7 @@
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Tableau and Looker Studio.
 - Data analysis and reporting using Google Sheets and Excel.
+- Logic and Complex Numbers.
 
 ## 🛠️ Tech Tools
 - Language: SQL, Python
