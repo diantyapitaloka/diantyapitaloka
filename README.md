@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Tools
 - Language: SQL, Python
-- Database: Google BigQuery
+- Database: Google BigQuery, SAP
 - Visualization: Tableau, Looker Studio, Power BI
 
 ## 👋🏻 Get in Touch
