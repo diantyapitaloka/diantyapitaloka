@@ -17,6 +17,6 @@
 - Database: Google BigQuery, SAP
 - Visualization: Tableau, Looker Studio, Power BI
 
-## 👋🏻 Get in Touch
+## 👋🏻 Get in Touch With Me
 - Linkedin   = [Diantya Pitaloka](https://www.linkedin.com/in/diantyapitaloka/)
 - GitHub     = [Diantya Pitaloka](https://github.com/diantyapitaloka)
