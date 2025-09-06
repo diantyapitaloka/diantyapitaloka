@@ -6,11 +6,11 @@
 - Experienced in leading four complex projects such as analyst planning, building technology features, manufacturing systems simulation modeling techniques, and analyze performance statistics data.
 
 ## 🌱 Interested In
+- Logic and Complex Numbers.
 - Querying data using SQL and Python.
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Tableau and Looker Studio.
 - Data analysis and reporting using Google Sheets and Excel.
-- Logic and Complex Numbers.
 
 ## 🛠️ Tech Tools
 - Language: SQL, Python
