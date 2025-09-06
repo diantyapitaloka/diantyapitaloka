@@ -20,3 +20,4 @@
 ## 👋🏻 Get in Touch With Me
 - Linkedin   = [Diantya Pitaloka](https://www.linkedin.com/in/diantyapitaloka/)
 - GitHub     = [Diantya Pitaloka](https://github.com/diantyapitaloka)
+- Dicoding   = [Diantya Pitaloka](https://www.dicoding.com/users/diantya/academies) 
