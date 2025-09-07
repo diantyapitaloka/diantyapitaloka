@@ -1,5 +1,5 @@
 ## 🙋🏻‍♀️ Introduction
-- Hello, I'm Diantya Pitaloka. Engineer with expertise in data analysis and reporting, query optimization, database design, and data modelling.
+- Hello, I'm Diantya. Engineer with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 - Diantya is a graduated student from the Faculty of Engineering, majoring in Industrial Engineering.
 - Had 5+ years’ experience through 4 internship experiences in various industries, including Government, Fast Moving Consumer Good, Oil and Gas, and Start-up.
 - Have a strong academic background in analytical skills, operation, data analysis, data visualization, and optimization.
