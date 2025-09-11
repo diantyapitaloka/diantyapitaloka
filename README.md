@@ -1,7 +1,7 @@
 ## 🙋🏻‍♀️ Introduction
 - Hello, I'm Diantya. Engineer with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 - Diantya is a graduated student from the Faculty of Engineering, majoring in Industrial Engineering.
-- Had experience through internship experiences in various industries, including Government, Fast Moving Consumer Good, Oil and Gas, and Start-up.
+- Had experience through experiences in various industries, including Government, Fast Moving Consumer Good, Oil and Gas, and Start-up.
 - Have a strong academic background in analytical skills, operation, data analysis, data visualization, and optimization.
 - Experienced in leading four complex projects such as analyst planning, building technology features, manufacturing systems simulation modeling techniques, and analyze performance statistics data.
 
