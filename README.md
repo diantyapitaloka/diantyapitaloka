@@ -20,4 +20,5 @@
 ## 👋🏻 Get in Touch With Me
 - Linkedin   = [Diantya Pitaloka](https://www.linkedin.com/in/diantyapitaloka/)
 - GitHub     = [Diantya Pitaloka](https://github.com/diantyapitaloka)
-- Dicoding   = [Diantya Pitaloka](https://www.dicoding.com/users/diantya/academies) 
+- Dicoding   = [Diantya Pitaloka](https://www.dicoding.com/users/diantya/academies)
+- Kaggle   = [Diantya Pitaloka](https://www.kaggle.com/diantyapitaloka) 
