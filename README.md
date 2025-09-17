@@ -24,18 +24,3 @@
 - Kaggle   = [Diantya Pitaloka](https://www.kaggle.com/diantyapitaloka)
 
 
-```
-package main
-
-import (
-    "fmt"
-)
-
-var (
-    say string = "Hello World !!!"
-)
-
-func main() {
-    fmt.Println(say)
-}
-```
