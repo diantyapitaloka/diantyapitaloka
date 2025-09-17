@@ -21,4 +21,21 @@
 - Linkedin   = [Diantya Pitaloka](https://www.linkedin.com/in/diantyapitaloka/)
 - GitHub     = [Diantya Pitaloka](https://github.com/diantyapitaloka)
 - Dicoding   = [Diantya Pitaloka](https://www.dicoding.com/users/diantya/academies)
-- Kaggle   = [Diantya Pitaloka](https://www.kaggle.com/diantyapitaloka) 
+- Kaggle   = [Diantya Pitaloka](https://www.kaggle.com/diantyapitaloka)
+
+
+```
+package main
+
+import (
+    "fmt"
+)
+
+var (
+    say string = "Hello World !!!"
+)
+
+func main() {
+    fmt.Println(say)
+}
+```
