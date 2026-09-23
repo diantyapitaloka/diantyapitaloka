@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Hello World! I'm Diantya ⚡️
 
-> **Industrial Engineer by degree, Data Magician by trade.** 🧙‍♀️📊
+> **Engineer by degree, Data Magician by trade.** 🧙‍♀️📊
 > I turn chaotic raw data and messy queries into clean, actionable insights (and zero-error pipelines).
 
 ---
