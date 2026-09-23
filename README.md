@@ -1,25 +1,30 @@
-## 🙋🏻‍♀️ Introduction
-- Hello, I'm Diantya. Engineer with expertise in data analysis and reporting, query optimization, database design, and data modelling.
-- Diantya is a graduated student from the Faculty of Engineering, majoring in Industrial Engineering.
-- Had experience through experiences in various industries, including Government, Fast Moving Consumer Good, Oil and Gas, and Start-up.
-- Have a strong academic background in analytical skills, operation, data analysis, data visualization, and optimization.
-- Experienced in leading four complex projects such as analyst planning, building technology features, manufacturing systems simulation modeling techniques, and analyze performance statistics data.
+## 🙋🏻‍♀️ Hello World! I'm Diantya ⚡️
 
-## 🌱 Interested In
-- Logic and Complex Numbers.
-- Querying data using SQL and Python.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
+> **Industrial Engineer by degree, Data Magician by trade.** 🧙‍♀️📊
+> I turn chaotic raw data and messy queries into clean, actionable insights (and zero-error pipelines).
 
-## 🛠️ Tech Tools
-- Language: SQL, Python
-- Database: Google BigQuery, SAP
-- Visualization: Tableau, Looker Studio, Power BI
+---
 
-## 👋🏻 Get in Touch With Me
-- GitHub     = [Diantya Pitaloka](https://github.com/diantyapitaloka)
-- Dicoding   = [Diantya Pitaloka](https://www.dicoding.com/users/diantya/academies)
-- Kaggle   = [Diantya Pitaloka](https://www.kaggle.com/diantyapitaloka)
+### 🍿 The Short Story
+- 🎓 **Engineering Graduate** majoring in **Industrial Engineering** *(a.k.a. the fine art of optimizing literally everything in life)*.
+- 💼 **Battle-tested across industries:** Different domains, same mission—eliminate inefficiency using data.
+- 🛢️ **What I actually do:** Query optimization, database design, data modeling, and reporting. 
+- 📊 **Academic + Practical Muscle:** Armed with strong analytical skills, operational research, data visualization, and simulation modeling techniques.
+- 🚀 **Project Veteran:** Successfully spearheaded 4 complex projects ranging from analyst planning and building tech features to system simulation and performance statistics analysis.
+
+---
+
+### 🤓 Fun Facts / Engineer Habits
+- 🟢 **SQL State of Mind:** I see the world in `SELECT * FROM life WHERE stress = 0;` (returns 0 rows, but we keep querying).
+- ⚙️ **Process Obsessed:** If a task takes more than 3 clicks, I will probably build a model, write a script, or optimize a workflow for it.
+- 📍 **Versatile Player:** Equally comfortable talking shop with factory floor operators or presenting high-level dashboards.
+
+---
+
+
+### 👋🏻 Get in Touch With Me
+- [Diantya Pitaloka](https://github.com/diantyapitaloka)
+- [Diantya Pitaloka](https://www.dicoding.com/users/diantya/academies)
+- [Diantya Pitaloka](https://www.kaggle.com/diantyapitaloka)
 
 
