@@ -1,4 +1,4 @@
-## 🙋🏻‍♀️ Hello World! I'm Diantya ⚡️
+## 🙋🏻‍♀️ Helloooooooo World! I'm Diantya ⚡️
 
 > **Engineer by degree, Data Magician by trade.** 🧙‍♀️📊
 > I turn chaotic raw data and messy queries into clean, actionable insights and pipelines that actually run on Monday mornings.
