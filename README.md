@@ -6,7 +6,7 @@
 ---
 
 ### 🍿 The Short Story
-- 🎓 **Engineering Graduate** majoring in **Industrial Engineering** *(a.k.a. the fine art of optimizing literally everything in life)*.
+- 🎓 **Engineering Graduate** *(a.k.a. the fine art of optimizing literally everything in life)*.
 - 💼 **Battle-tested across industries:** Different domains, same mission—eliminate inefficiency using data.
 - 🛢️ **What I actually do:** Query optimization, database design, data modeling, and reporting. 
 - 📊 **Academic + Practical Muscle:** Armed with strong analytical skills, operational research, data visualization, and simulation modeling techniques.
