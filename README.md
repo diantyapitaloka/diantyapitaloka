@@ -23,8 +23,8 @@
 
 
 ### 👋🏻 Get in Touch With Me
-- [Diantya Pitaloka](https://github.com/diantyapitaloka)
-- [Diantya Pitaloka](https://www.dicoding.com/users/diantya/academies)
-- [Diantya Pitaloka](https://www.kaggle.com/diantyapitaloka)
+- [GitHub](https://github.com/diantyapitaloka)
+- [Dicoding](https://www.dicoding.com/users/diantya/academies)
+- [Kaggle](https://www.kaggle.com/diantyapitaloka)
 
 
