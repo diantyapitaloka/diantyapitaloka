@@ -10,7 +10,7 @@
 - 💼 **Battle-tested across industries:** Different domains, same mission—eliminate inefficiency using data.
 - 🛢️ **What I actually do:** Query optimization, database design, data modeling, and reporting. 
 - 📊 **Academic + Practical Muscle:** Armed with strong analytical skills, operational research, data visualization, and simulation modeling techniques.
-- 🚀 **Project Veteran:** Successfully spearheaded 4 complex projects ranging from analyst planning and building tech features to system simulation and performance statistics analysis.
+- 🚀 **Project Veteran:** Successfully spearheaded 4 complex projects ranging from analyst planning and building tech features like system simulation and performance statistics analysis.
 
 ---
 
